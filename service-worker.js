@@ -37,7 +37,7 @@
 /* eslint-disable indent, no-unused-vars, no-multiple-empty-lines, max-nested-callbacks, space-before-function-paren, quotes, comma-spacing */
 'use strict';
 
-var precacheConfig = [["README.md","c1c8a79dd34e3c05c04eb8817291ca2e"],["acceuil.css","ddfad80ed8b4fe8e2022f7f0ec6c78cd"],["acceuil.html","7d5268c1452673b5cd6378bd7351e7fa"],["carte.css","53003ef97c9ea39af964d3424e2f4433"],["carte.html","3998ecadbefece296c837d1cdd18f5b9"],["contact.css","8016e742205fff32cdf062c2b78feee3"],["contact.html","dc748260e25813490061b03ed938bb78"],["images/background.jpg","95ceef9705dce7ecde65eedba404fefd"],["images/escalope.jpg","9b4ab5c26e974640f09c666f5aadc2d9"],["images/fidelite.jpg","4b2c495951a49afa6c6aafe777942ab5"],["images/horloge.png","785b44357a8f79989d3f91fac6f9926a"],["images/icone192.png","d1fcd6ca9d2bd473bc7afa04886d289e"],["images/icone512.jpg","9159c28f0ab96a803e9bfa21ba846130"],["images/karaoke.jpg","8440c1bb3c1758520bf156a83e02258c"],["images/logo.png","cee16ae0756efb3253bc32d6b1686ba9"],["images/pates1.jpg","a17df87568e87e1c3affa205adc735d8"],["images/pates2.jpg","80e00388afd56a734dd1d686b9625af7"],["images/pates3.jpeg","dcee06b76ea3ad8dbb1c2366280547a6"],["images/pizza1.jpg","bd0a75b33af19fca48b3673962c65c89"],["images/pizza2.jpg","336fe43cad21ed92a148b1604bd2c817"],["images/pizza3.JPG","7f042a132072540a2752205733138bc3"],["images/resto1.jpg","ca6ca6c218127310891ecdf0fdb9b8d6"],["images/resto2.jpg","7a31594460d77bcc0260b93b6414e65d"],["images/resto3.jpg","835be11202885a691faac8e1bad275d6"],["images/scampi.jpg","522acb3e421d8bc894010b35373181af"],["images/tiramisu.jpg","312a22a379d577b87e847c06e17a3280"],["jquery.js","6a07da9fae934baf3f749e876bbfdd96"],["manifest.json","29191032ce17cee988e57d61fbb68e88"],["photos.css","fa5b79931502344f6350fe89538bdf31"],["photos.html","6a5dc6ab1b97800d0eb3f47400efe787"],["photos1.html","9abe85af5951cc50bcc9886e42d0a22b"],["photos2.html","4a8d336119f73c3a39aef90056ae1cc5"],["photos3.html","b1d1e9ab981c8d4a7de2b0e3e52e19ec"],["restaurant.css","411ba90748c58f48f0f946c1ce215ed4"],["restaurant.html","322ceacf6563a9c74cd0984199808112"],["restaurant.js","faa2e6764050b917b80cbb4ddd984198"],["script.js","781e3f12baa0e70234dcb93055e24a48"]];
+var precacheConfig = [["README.md","65cdf5d1099d92bd7baeba9a2a90fae9"],["acceuil.css","ddfad80ed8b4fe8e2022f7f0ec6c78cd"],["acceuil.html","7d5268c1452673b5cd6378bd7351e7fa"],["carte.css","53003ef97c9ea39af964d3424e2f4433"],["carte.html","3998ecadbefece296c837d1cdd18f5b9"],["contact.css","8016e742205fff32cdf062c2b78feee3"],["contact.html","dc748260e25813490061b03ed938bb78"],["images/background.jpg","95ceef9705dce7ecde65eedba404fefd"],["images/escalope.jpg","9b4ab5c26e974640f09c666f5aadc2d9"],["images/fidelite.jpg","4b2c495951a49afa6c6aafe777942ab5"],["images/horloge.png","785b44357a8f79989d3f91fac6f9926a"],["images/icone192.png","d1fcd6ca9d2bd473bc7afa04886d289e"],["images/icone512.jpg","9159c28f0ab96a803e9bfa21ba846130"],["images/karaoke.jpg","8440c1bb3c1758520bf156a83e02258c"],["images/logo.png","cee16ae0756efb3253bc32d6b1686ba9"],["images/pates1.jpg","a17df87568e87e1c3affa205adc735d8"],["images/pates2.jpg","80e00388afd56a734dd1d686b9625af7"],["images/pates3.jpeg","dcee06b76ea3ad8dbb1c2366280547a6"],["images/pizza1.jpg","bd0a75b33af19fca48b3673962c65c89"],["images/pizza2.jpg","336fe43cad21ed92a148b1604bd2c817"],["images/pizza3.JPG","7f042a132072540a2752205733138bc3"],["images/resto1.jpg","ca6ca6c218127310891ecdf0fdb9b8d6"],["images/resto2.jpg","7a31594460d77bcc0260b93b6414e65d"],["images/resto3.jpg","835be11202885a691faac8e1bad275d6"],["images/scampi.jpg","522acb3e421d8bc894010b35373181af"],["images/tiramisu.jpg","312a22a379d577b87e847c06e17a3280"],["jquery.js","6a07da9fae934baf3f749e876bbfdd96"],["manifest.json","29191032ce17cee988e57d61fbb68e88"],["photos.css","fa5b79931502344f6350fe89538bdf31"],["photos.html","6a5dc6ab1b97800d0eb3f47400efe787"],["photos1.html","9abe85af5951cc50bcc9886e42d0a22b"],["photos2.html","4a8d336119f73c3a39aef90056ae1cc5"],["photos3.html","b1d1e9ab981c8d4a7de2b0e3e52e19ec"],["restaurant.css","411ba90748c58f48f0f946c1ce215ed4"],["restaurant.html","322ceacf6563a9c74cd0984199808112"],["restaurant.js","faa2e6764050b917b80cbb4ddd984198"],["script.js","781e3f12baa0e70234dcb93055e24a48"]];
 var cacheName = 'sw-precache-v3-sw-precache-' + (self.registration ? self.registration.scope : '');
 
 
@@ -176,10 +176,10 @@ self.addEventListener('install', function(event) {
         );
       });
     }).then(function() {
-
+      
       // Force the SW to transition from installing -> active state
       return self.skipWaiting();
-
+      
     })
   );
 });
@@ -199,9 +199,9 @@ self.addEventListener('activate', function(event) {
         );
       });
     }).then(function() {
-
+      
       return self.clients.claim();
-
+      
     })
   );
 });
@@ -259,3 +259,10 @@ self.addEventListener('fetch', function(event) {
     }
   }
 });
+
+
+
+
+
+
+
